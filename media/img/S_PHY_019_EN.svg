@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Particle model of states of matter" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Particle model of states of matter</title>
+  <desc>Dots are model symbols – particle sizes and separations are not to scale.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Particle model of states of matter</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Simplified representation of the same particle type</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <rect fill="white" height="316" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="264" x="64" y="154"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" x="196" y="193">Solid</text>
+  <circle cx="131" cy="235" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="182" cy="235" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="233" cy="235" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="131" cy="285" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="182" cy="285" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="233" cy="285" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="131" cy="335" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="182" cy="335" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="233" cy="335" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="1.7" x1="133" x2="140" y1="405" y2="397"/>
+  <polygon fill="#ab7923" points="140,397 138.62384487778766,401.80689058327823 135.41832373014182,399.0020595790881"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="1.7" x1="184" x2="191" y1="405" y2="397"/>
+  <polygon fill="#ab7923" points="191,397 189.62384487778766,401.80689058327823 186.41832373014182,399.0020595790881"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="1.7" x1="235" x2="242" y1="405" y2="397"/>
+  <polygon fill="#ab7923" points="242,397 240.62384487778766,401.80689058327823 237.41832373014182,399.0020595790881"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="196" y="507">fixed neighbours</text>
+  <rect fill="white" height="316" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="264" x="360" y="154"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" x="492" y="193">Liquid</text>
+  <circle cx="428" cy="243" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="476" cy="253" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="524" cy="243" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="416" cy="282" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="464" cy="292" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="512" cy="282" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="428" cy="321" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="476" cy="331" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="524" cy="321" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="441" x2="457" y1="233" y2="221"/>
+  <polygon fill="#1d8171" points="457,221 454.19057409078175,226.30161541990867 451.1238099423066,222.21259655527507"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="489" x2="505" y1="243" y2="231"/>
+  <polygon fill="#1d8171" points="505,231 502.19057409078175,236.30161541990867 499.1238099423066,232.21259655527507"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="537" x2="553" y1="233" y2="221"/>
+  <polygon fill="#1d8171" points="553,221 550.1905740907818,226.30161541990867 547.1238099423066,222.21259655527507"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="429" x2="445" y1="272" y2="260"/>
+  <polygon fill="#1d8171" points="445,260 442.19057409078175,265.30161541990867 439.1238099423066,261.21259655527507"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="492" y="507">changing neighbours</text>
+  <rect fill="white" height="316" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="264" x="656" y="154"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" x="788" y="193">Gas</text>
+  <circle cx="698" cy="246" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="782" cy="230" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="869" cy="247" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="728" cy="307" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="824" cy="318" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="881" cy="358" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="699" cy="397" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="788" cy="393" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <circle cx="855" cy="427" fill="#eff5f8" r="10" stroke="#246a9b" stroke-width="2"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="708" x2="728" y1="249" y2="230"/>
+  <polygon fill="#1d8171" points="728,230 725.8245268039661,235.59171855276517 722.3041398754968,231.8860481017449"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="792" x2="812" y1="233" y2="214"/>
+  <polygon fill="#1d8171" points="812,214 809.8245268039661,219.59171855276517 806.3041398754968,215.8860481017449"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="879" x2="899" y1="250" y2="231"/>
+  <polygon fill="#1d8171" points="899,231 896.8245268039661,236.59171855276517 893.3041398754968,232.8860481017449"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="738" x2="758" y1="310" y2="291"/>
+  <polygon fill="#1d8171" points="758,291 755.8245268039661,296.5917185527652 752.3041398754968,292.8860481017449"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="834" x2="854" y1="321" y2="302"/>
+  <polygon fill="#1d8171" points="854,302 851.8245268039661,307.5917185527652 848.3041398754968,303.8860481017449"/>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="1.8" x1="891" x2="911" y1="361" y2="342"/>
+  <polygon fill="#1d8171" points="911,342 908.8245268039661,347.5917185527652 905.3041398754968,343.8860481017449"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="788" y="507">wide separations</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="567">Dots are model symbols – particle sizes and separations are not to scale.</text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Linear expansion and water density" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Linear expansion and water density</title>
+  <desc>Density changes are very small; the curve is not to scale.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Linear expansion and water density</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Left: approximate model · Right: qualitative density curve</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <rect fill="white" height="348" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="405" x="55" y="150"/>
+  <rect fill="white" height="348" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="405" x="500" y="150"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="80" y="212">at lower temperature</text>
+  <line stroke="#246a9b" stroke-linecap="round" stroke-width="12" x1="100" x2="299" y1="249" y2="249"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="80" y="319">at higher temperature</text>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="12" x1="100" x2="341" y1="356" y2="356"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="2" x1="300" x2="341" y1="390" y2="390"/>
+  <polygon fill="#b94f3d" points="341,390 331.0477317045804,394.685334115726 331.0477317045804,385.314665884274"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="2" x1="300" x2="300" y1="378" y2="402"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="2" x1="341" x2="341" y1="378" y2="402"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" x="230" y="438">Additional length Δl</text>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="574" x2="574" y1="438" y2="220"/>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="574" x2="858" y1="438" y2="438"/>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="595" x2="595" y1="435" y2="444"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="595" y="466">0</text>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="685" x2="685" y1="435" y2="444"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="685" y="466">4</text>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="827" x2="827" y1="435" y2="444"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="827" y="466">10</text>
+  <path d="M595,324 C633,286 654,250 685,250 C727,250 772,295 827,344" fill="none" stroke="#246a9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="1.7" stroke-dasharray="6 5" x1="685" x2="685" y1="250" y2="435"/>
+  <circle cx="685" cy="250" fill="#ffffff" r="5" stroke="#ab7923" stroke-width="2"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" x="580" y="202">Density ρ (schematic)</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" x="690" y="490">Temperature (°C)</text>
+  <text fill="#ab7923" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" x="692" y="232">Maximum near 4 °C</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="567">Density changes are very small; the curve is not to scale.</text>
+</svg>

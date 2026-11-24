@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="61" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#202a35">Repeated measurements: spread and mean</text>
+<text x="40" y="99" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#56606a">Invented times – not real measurement data</text>
+<line x1="40" y1="122" x2="920" y2="122" stroke="#bfc5cb" stroke-width="1.5"/>
+<text x="72" y="171" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#202a35">Trial</text>
+<text x="247" y="171" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#202a35">Time</text>
+<line x1="70" y1="185" x2="365" y2="185" stroke="#cbd0d4" stroke-width="1"/>
+<text x="103" y="225" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1</text>
+<text x="248" y="225" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1.58 s</text>
+<line x1="70" y1="239" x2="364" y2="239" stroke="#e3e5e7" stroke-width="1"/>
+<text x="103" y="276" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">2</text>
+<text x="248" y="276" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1.62 s</text>
+<line x1="70" y1="290" x2="364" y2="290" stroke="#e3e5e7" stroke-width="1"/>
+<text x="103" y="327" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">3</text>
+<text x="248" y="327" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1.60 s</text>
+<line x1="70" y1="341" x2="364" y2="341" stroke="#e3e5e7" stroke-width="1"/>
+<text x="103" y="378" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">4</text>
+<text x="248" y="378" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1.59 s</text>
+<line x1="70" y1="392" x2="364" y2="392" stroke="#e3e5e7" stroke-width="1"/>
+<text x="103" y="429" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">5</text>
+<text x="248" y="429" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#202a35">1.61 s</text>
+<line x1="70" y1="443" x2="364" y2="443" stroke="#e3e5e7" stroke-width="1"/>
+<text x="465" y="172" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#202a35">Individual readings</text>
+<line x1="461" y1="428" x2="903" y2="428" stroke="#5c6570" stroke-width="2"/>
+<line x1="529" y1="417" x2="529" y2="440" stroke="#5c6570" stroke-width="2"/>
+<text x="529" y="466" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#202a35">1.56</text>
+<line x1="607" y1="417" x2="607" y2="440" stroke="#5c6570" stroke-width="2"/>
+<text x="607" y="466" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#202a35">1.58</text>
+<line x1="685" y1="417" x2="685" y2="440" stroke="#5c6570" stroke-width="2"/>
+<text x="685" y="466" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#202a35">1.60</text>
+<line x1="763" y1="417" x2="763" y2="440" stroke="#5c6570" stroke-width="2"/>
+<text x="763" y="466" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#202a35">1.62</text>
+<line x1="841" y1="417" x2="841" y2="440" stroke="#5c6570" stroke-width="2"/>
+<text x="841" y="466" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#202a35">1.64</text>
+<line x1="685" y1="195" x2="685" y2="421" stroke="#bc5c25" stroke-width="3" stroke-dasharray="7 6"/>
+<circle cx="607" cy="223" r="7" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="621" y="228" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202a35">1.58</text>
+<circle cx="763" cy="262" r="7" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="777" y="267" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202a35">1.62</text>
+<circle cx="685" cy="301" r="7" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="699" y="306" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202a35">1.60</text>
+<circle cx="646" cy="340" r="7" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="660" y="345" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202a35">1.59</text>
+<circle cx="724" cy="379" r="7" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="738" y="384" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#202a35">1.61</text>
+<text x="709" y="511" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#202a35">Time t (s)</text>
+<text x="200" y="539" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#202a35">Range: 0.04 s</text>
+<text x="705" y="549" font-family="Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#a94e18">Mean 1.60 s</text>
+</svg>

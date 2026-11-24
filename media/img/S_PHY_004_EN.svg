@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="61" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#202a35">Fair test: change one quantity</text>
+<text x="40" y="99" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#56606a">Same ball, same track – different height h</text>
+<line x1="40" y1="122" x2="920" y2="122" stroke="#bfc5cb" stroke-width="1.5"/>
+<text x="235" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#202a35">Condition A</text>
+<text x="740" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#202a35">Condition B</text>
+<line x1="123" y1="355" x2="360" y2="435" stroke="#157a99" stroke-width="7"/>
+<line x1="123" y1="435" x2="123" y2="355" stroke="#59616a" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="123" y1="435" x2="360" y2="435" stroke="#b9bec3" stroke-width="2"/>
+<circle cx="131" cy="343" r="12" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="110" y="395" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#202a35">h = 10 cm</text>
+<text x="241" y="479" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#202a35">same length</text>
+<line x1="619" y1="275" x2="811" y2="435" stroke="#157a99" stroke-width="7"/>
+<line x1="619" y1="435" x2="619" y2="275" stroke="#59616a" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="619" y1="435" x2="811" y2="435" stroke="#b9bec3" stroke-width="2"/>
+<circle cx="627" cy="263" r="12" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="606" y="355" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#202a35">h = 20 cm</text>
+<text x="715" y="479" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#202a35">same length</text>
+<line x1="43" y1="505" x2="917" y2="505" stroke="#c4cad0" stroke-width="1"/>
+<text x="64" y="550" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#202a35">Change: height h</text>
+<text x="526" y="550" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#202a35">Measure: time t</text>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Heat-loss paths and energy balance" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Heat-loss paths and energy balance</title>
+  <desc>Model example: 600 kJ in − 450 kJ out = +150 kJ. Not measured.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Heat-loss paths and energy balance</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Model of a room with a defined system boundary</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <rect fill="white" height="350" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="511" x="48" y="150"/>
+  <polygon fill="white" points="111,302 287,187 467,302" stroke="#233648" stroke-width="4"/>
+  <rect fill="white" height="155" rx="0" ry="0" stroke="#233648" stroke-width="4" width="294" x="142" y="302"/>
+  <rect fill="#eaf3f8" height="98" rx="0" ry="0" stroke="#246a9b" stroke-width="3" width="70" x="249" y="359"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" x="285" y="240">Roof</text>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" x="181" y="384">Wall</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" x="355" y="385">Window / air</text>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="4" x1="290" x2="290" y1="196" y2="143"/>
+  <polygon fill="#b94f3d" points="290,143 294.685334115726,152.9522682954196 285.314665884274,152.9522682954196"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="4" x1="432" x2="490" y1="385" y2="385"/>
+  <polygon fill="#b94f3d" points="490,385 480.0477317045804,389.685334115726 480.0477317045804,380.314665884274"/>
+  <line stroke="#246a9b" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 4" x1="271" x2="271" y1="385" y2="347"/>
+  <polygon fill="#246a9b" points="271,347 274.833455185594,355.1427649689797 267.166544814406,355.1427649689797"/>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" x="478" y="448">Losses</text>
+  <circle cx="91" cy="233" fill="#fff3d9" r="18" stroke="#ab7923" stroke-width="2"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="3" x1="109" x2="170" y1="245" y2="298"/>
+  <polygon fill="#ab7923" points="170,298 159.41433178853504,295.0094100052364 165.56029336676914,287.9357561133066"/>
+  <text fill="#ab7923" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" x="82" y="266">Sun</text>
+  <line stroke="#1d8171" stroke-linecap="round" stroke-width="3" x1="176" x2="222" y1="433" y2="433"/>
+  <polygon fill="#1d8171" points="222,433 212.0477317045804,437.685334115726 212.0477317045804,428.314665884274"/>
+  <text fill="#1d8171" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" x="175" y="412">Heating</text>
+  <rect fill="white" height="350" rx="3" ry="3" stroke="#cbd5dc" stroke-width="2" width="317" x="598" y="150"/>
+  <text fill="#1d8171" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" x="625" y="226">Energy in</text>
+  <text fill="#1d8171" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="end" x="857" y="226">600 kJ</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1" x1="630" x2="881" y1="242" y2="242"/>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" x="625" y="286">Energy out</text>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="end" x="857" y="286">450 kJ</text>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2" x1="630" x2="881" y1="312" y2="312"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" x="625" y="358">Change ΔU</text>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="end" x="868" y="358">+150 kJ</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" x="751" y="415">ΔU = In − Out</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="567">Model example: 600 kJ in − 450 kJ out = +150 kJ. Not measured.</text>
+</svg>

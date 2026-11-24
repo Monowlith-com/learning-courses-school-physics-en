@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img">
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#23789a"/></marker><marker id="arr-o" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#b05d20"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" fill="#27343e" font-size="33" font-family="Arial, sans-serif" font-weight="700" text-anchor="start">Imaging in the eye and camera</text>
+<text x="40" y="96" fill="#707b84" font-size="18" font-family="Arial, sans-serif" font-weight="400" text-anchor="start">A real image reaches a light-sensitive surface</text>
+<line x1="40" y1="121" x2="920" y2="121" stroke="#cbd1d5" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="486" y1="170" x2="486" y2="540" stroke="#cbd1d5" stroke-width="2" stroke-linecap="round"/>
+<text x="255" y="170" fill="#27343e" font-size="24" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Eye</text>
+<text x="713" y="170" fill="#27343e" font-size="24" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Camera</text>
+<ellipse cx="290" cy="375" rx="170" ry="115" fill="#fff" stroke="#707b84" stroke-width="3"/>
+<ellipse cx="208" cy="375" rx="13" ry="53" fill="#f5f9fb" stroke="#23789a" stroke-width="3"/>
+<path d="M445 299 Q467 374 445 454" fill="none" stroke="#b05d20" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="115" y1="304" x2="208" y2="352" stroke="#23789a" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="208" y1="352" x2="450" y2="421" stroke="#b05d20" stroke-width="3" marker-end="url(#arr-o)" stroke-linecap="round"/>
+<line x1="115" y1="445" x2="208" y2="396" stroke="#23789a" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="208" y1="396" x2="450" y2="339" stroke="#b05d20" stroke-width="3" marker-end="url(#arr-o)" stroke-linecap="round"/>
+<text x="366" y="508" fill="#b05d20" font-size="20" font-family="Arial, sans-serif" font-weight="400" text-anchor="middle">Retina</text>
+<rect x="573" y="270" width="279" height="220" rx="8" fill="#fff" stroke="#707b84" stroke-width="3"/>
+<rect x="844" y="292" width="9" height="179" rx="0" fill="#f0d9cd" stroke="#a04548" stroke-width="1"/>
+<ellipse cx="653" cy="378" rx="16" ry="64" fill="#eef7f9" stroke="#23789a" stroke-width="3"/>
+<line x1="532" y1="300" x2="653" y2="350" stroke="#23789a" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="653" y1="350" x2="845" y2="429" stroke="#b05d20" stroke-width="3" marker-end="url(#arr-o)" stroke-linecap="round"/>
+<line x1="532" y1="446" x2="653" y2="400" stroke="#23789a" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="653" y1="400" x2="845" y2="330" stroke="#b05d20" stroke-width="3" marker-end="url(#arr-o)" stroke-linecap="round"/>
+<text x="771" y="512" fill="#b05d20" font-size="20" font-family="Arial, sans-serif" font-weight="400" text-anchor="middle">Sensor</text>
+<text x="260" y="562" fill="#707b84" font-size="16" font-family="Arial, sans-serif" font-weight="400" text-anchor="middle">Cornea + lens</text>
+<text x="716" y="562" fill="#707b84" font-size="16" font-family="Arial, sans-serif" font-weight="400" text-anchor="middle">Lens assembly</text>
+</svg>

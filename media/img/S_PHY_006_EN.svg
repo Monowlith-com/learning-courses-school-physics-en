@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="61" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#202a35">Pendulum: real setup and model</text>
+<text x="40" y="99" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#56606a">Schematic comparison – not to scale</text>
+<line x1="40" y1="122" x2="920" y2="122" stroke="#bfc5cb" stroke-width="1.5"/>
+<text x="233" y="184" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#202a35">Real pendulum</text>
+<text x="725" y="184" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#202a35">Simple model</text>
+<line x1="471" y1="175" x2="471" y2="538" stroke="#d0d5d9" stroke-width="1.5"/>
+<line x1="164" y1="219" x2="304" y2="219" stroke="#59636e" stroke-width="7"/>
+<circle cx="234" cy="219" r="5" fill="#59636e" stroke="#254653" stroke-width="1.5"/>
+<line x1="234" y1="219" x2="234" y2="435" stroke="#a1a7ac" stroke-width="2" stroke-dasharray="5 6"/>
+<line x1="234" y1="219" x2="297" y2="435" stroke="#235974" stroke-width="3"/>
+<circle cx="297" cy="435" r="22" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="251" y="293" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#a94e18">α</text>
+<line x1="656" y1="219" x2="796" y2="219" stroke="#59636e" stroke-width="7"/>
+<circle cx="726" cy="219" r="5" fill="#59636e" stroke="#254653" stroke-width="1.5"/>
+<line x1="726" y1="219" x2="726" y2="437" stroke="#a1a7ac" stroke-width="2" stroke-dasharray="5 6"/>
+<line x1="726" y1="219" x2="760" y2="437" stroke="#235974" stroke-width="3"/>
+<circle cx="760" cy="437" r="10" fill="#127997" stroke="#254653" stroke-width="1.5"/>
+<text x="743" y="293" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#a94e18">α</text>
+<text x="246" y="346" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#202a35">String</text>
+<text x="333" y="410" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#202a35">Bob</text>
+<text x="697" y="347" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="start" fill="#235974">l</text>
+<text x="240" y="506" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#202a35">Friction and air resistance</text>
+<text x="722" y="506" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#202a35">Point mass, ideal string</text>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Temperature, internal energy and heat transfer" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Temperature, internal energy and heat transfer</title>
+  <desc>Schematic; equal temperatures do not imply equal energy contents.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Temperature, internal energy and heat transfer</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Two bodies in thermal contact</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <rect fill="white" height="180" rx="5" ry="5" stroke="#b94f3d" stroke-width="2" width="282" x="87" y="172"/>
+  <rect fill="white" height="180" rx="5" ry="5" stroke="#246a9b" stroke-width="2" width="282" x="592" y="172"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" x="228" y="224">Hotter body</text>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="39" font-weight="bold" text-anchor="middle" x="228" y="285">60 °C</text>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" x="733" y="224">Cooler body</text>
+  <text fill="#246a9b" font-family="DejaVu Sans, Arial, sans-serif" font-size="39" font-weight="bold" text-anchor="middle" x="733" y="285">20 °C</text>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="7" x1="390" x2="569" y1="262" y2="262"/>
+  <polygon fill="#b94f3d" points="569,262 553.6192217252607,269.240970906122 553.6192217252607,254.759029093878"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" x="480" y="242">Q</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" x="480" y="322">Net energy transfer</text>
+  <rect fill="white" height="96" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="260" x="80" y="394"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="210" y="428">Temperature</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" x="210" y="467">State quantity</text>
+  <rect fill="white" height="96" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="260" x="365" y="394"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="495" y="428">Internal energy</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" x="495" y="467">Energy of the system</text>
+  <rect fill="white" height="96" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="260" x="650" y="394"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="780" y="428">Heat transfer</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" x="780" y="467">Energy crossing a boundary</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="567">Schematic; equal temperatures do not imply equal energy contents.</text>
+</svg>

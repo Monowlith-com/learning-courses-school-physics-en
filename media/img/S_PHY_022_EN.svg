@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Heat transfer and temperature rise" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Heat transfer and temperature rise</title>
+  <desc>Straight lines show calculated values, not measurements.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Heat transfer and temperature rise</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Model values for water: c = 4190 J/(kg·K)</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2.4" x1="156" x2="823" y1="468" y2="468"/>
+  <polygon fill="#233648" points="823,468 812.1429800413605,473.111273580792 812.1429800413605,462.888726419208"/>
+  <line stroke="#233648" stroke-linecap="round" stroke-width="2.4" x1="156" x2="156" y1="468" y2="166"/>
+  <polygon fill="#233648" points="156,166 161.111273580792,176.85701995863957 150.888726419208,176.85701995863957"/>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="1" x1="149" x2="163" y1="468.0" y2="468.0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" x="139" y="473.0">0</text>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="1" x1="149" x2="163" y1="409.0" y2="409.0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" x="139" y="414.0">20</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1" stroke-dasharray="4 6" x1="156" x2="800" y1="409.0" y2="409.0"/>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="1" x1="149" x2="163" y1="350.0" y2="350.0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" x="139" y="355.0">40</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1" stroke-dasharray="4 6" x1="156" x2="800" y1="350.0" y2="350.0"/>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="1" x1="149" x2="163" y1="291.0" y2="291.0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" x="139" y="296.0">60</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1" stroke-dasharray="4 6" x1="156" x2="800" y1="291.0" y2="291.0"/>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="1" x1="149" x2="163" y1="232.0" y2="232.0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" x="139" y="237.0">80</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1" stroke-dasharray="4 6" x1="156" x2="800" y1="232.0" y2="232.0"/>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="2" x1="156.0" x2="156.0" y1="461" y2="475"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="156.0" y="496">0</text>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="2" x1="303.5" x2="303.5" y1="461" y2="475"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="303.5" y="496">5</text>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="2" x1="451.0" x2="451.0" y1="461" y2="475"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="451.0" y="496">10</text>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="2" x1="598.5" x2="598.5" y1="461" y2="475"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="598.5" y="496">15</text>
+  <line stroke="#5c6b78" stroke-linecap="round" stroke-width="2" x1="746.0" x2="746.0" y1="461" y2="475"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="746.0" y="496">20</text>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="4" x1="156" x2="746.0" y1="468" y2="220.79"/>
+  <line stroke="#246a9b" stroke-linecap="round" stroke-width="4" x1="156" x2="746.0" y1="468" y2="344.395"/>
+  <circle cx="746" cy="220.79" fill="#ffffff" r="5" stroke="#b94f3d" stroke-width="2"/>
+  <circle cx="746" cy="344.395" fill="#ffffff" r="5" stroke="#246a9b" stroke-width="2"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" x="56" y="140">Heat Q (kJ)</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="474" y="531">Temperature change ΔT (K)</text>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" x="655" y="186">1.0 kg water</text>
+  <text fill="#b94f3d" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="760" y="222">83.8 kJ</text>
+  <text fill="#246a9b" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" x="668" y="318">0.5 kg water</text>
+  <text fill="#246a9b" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="760" y="349">41.9 kJ</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="556">No phase change · no losses</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="579">Straight lines show calculated values, not measurements.</text>
+</svg>

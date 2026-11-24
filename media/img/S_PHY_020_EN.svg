@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Three mechanisms of heat transfer" baseProfile="full" height="600px" role="img" version="1.1" viewBox="0 0 960 600" width="960px">
+  <title>Three mechanisms of heat transfer</title>
+  <desc>More than one mechanism may operate at the same time.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="600" width="960" x="0" y="0"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" x="48" y="53">Three mechanisms of heat transfer</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="normal" x="48" y="84">Energy-transfer routes – not kinds of stored heat</text>
+  <line stroke="#cbd5dc" stroke-linecap="round" stroke-width="1.5" x1="48" x2="912" y1="105" y2="105"/>
+  <rect fill="white" height="350" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="278" x="56" y="150"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" x="195" y="190">Conduction</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="195" y="472">Solid material</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="195" y="495">Contact</text>
+  <rect fill="white" height="350" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="278" x="358" y="150"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" x="497" y="190">Convection</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="497" y="472">Moving air</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="497" y="495">Matter flow</text>
+  <rect fill="white" height="350" rx="4" ry="4" stroke="#cbd5dc" stroke-width="2" width="278" x="660" y="150"/>
+  <text fill="#233648" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" x="799" y="190">Radiation</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="799" y="472">Vacuum possible</text>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" x="799" y="495">EM radiation</text>
+  <rect fill="#ebc5b8" height="62" rx="0" ry="0" stroke="#ffffff" stroke-width="1" width="47" x="101" y="264"/>
+  <rect fill="#dbb6aa" height="62" rx="0" ry="0" stroke="#ffffff" stroke-width="1" width="47" x="148" y="264"/>
+  <rect fill="#bdd3df" height="62" rx="0" ry="0" stroke="#ffffff" stroke-width="1" width="47" x="195" y="264"/>
+  <rect fill="#a6c9df" height="62" rx="0" ry="0" stroke="#ffffff" stroke-width="1" width="47" x="242" y="264"/>
+  <circle cx="104" cy="295" fill="#f5d8ce" r="22" stroke="#b94f3d" stroke-width="2"/>
+  <circle cx="290" cy="295" fill="#dfebf4" r="22" stroke="#246a9b" stroke-width="2"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="3" x1="137" x2="268" y1="351" y2="351"/>
+  <polygon fill="#b94f3d" points="268,351 258.0477317045804,355.685334115726 258.0477317045804,346.314665884274"/>
+  <rect fill="#f7fbfd" height="145" rx="4" ry="4" stroke="#246a9b" stroke-width="2" width="145" x="406" y="245"/>
+  <path d="M436,359 C404,297 438,270 468,273" fill="none" stroke="#b94f3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="4" x1="464" x2="468" y1="273" y2="272"/>
+  <polygon fill="#b94f3d" points="468,272 459.4812419920262,278.9592213646055 457.20852111550283,269.86833785851223"/>
+  <path d="M503,278 C542,303 533,344 503,362" fill="none" stroke="#246a9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line stroke="#246a9b" stroke-linecap="round" stroke-width="4" x1="507" x2="503" y1="360" y2="362"/>
+  <polygon fill="#246a9b" points="503,362 509.80623425953723,353.35852008020026 513.9969244915621,361.73990054425"/>
+  <line stroke="#b94f3d" stroke-linecap="round" stroke-width="5" x1="435" x2="534" y1="400" y2="400"/>
+  <circle cx="713" cy="308" fill="#fff4d9" r="43" stroke="#ab7923" stroke-width="2"/>
+  <circle cx="874" cy="308" fill="#dcebf5" r="32" stroke="#246a9b" stroke-width="2"/>
+  <path d="M771 275 Q785 261 799 275 Q813 289 827 275" fill="none" stroke="#ab7923" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M771 307 Q785 293 799 307 Q813 321 827 307" fill="none" stroke="#ab7923" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M771 339 Q785 325 799 339 Q813 353 827 339" fill="none" stroke="#ab7923" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line stroke="#ab7923" stroke-linecap="round" stroke-width="4" x1="843" x2="849" y1="308" y2="308"/>
+  <polygon fill="#ab7923" points="849,308 839.0477317045804,312.685334115726 839.0477317045804,303.314665884274"/>
+  <text fill="#5c6b78" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" x="50" y="567">More than one mechanism may operate at the same time.</text>
+</svg>
